@@ -26,7 +26,7 @@ function Map() {
           setSearchParams({ lat: 23, lng: 50 });
         }}
       >
-        Change pos
+        Change Pos
       </button>
     </div>
   );
